@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i("Scrub Seekbar: ", Integer.toString(progress));
                 prg = progress;
                 prg = dragProgress;
-//                mediaPlayer.seekTo(progress);
+                //mediaPlayer.seekTo(progress);
             }
 
             @Override
