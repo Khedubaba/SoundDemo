@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
                 prg = progress;
                 prg = dragProgress;
                 //mediaPlayer.seekTo(progress);
+//
             }
 
             @Override
